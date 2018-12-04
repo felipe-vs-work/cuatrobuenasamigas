@@ -5,6 +5,6 @@
 		<p>Para ser más organizado.</p>
 		
 		<h2>Este título lo hice desde Github</h2>
-		<p>Qué entretenido</p>
+		<p>Qué entretenido, <strong>este texto lo puse desde mi editor en un pull request, como corrección esperando una respuesta.</strong></p>
 	</body>
 </html>
