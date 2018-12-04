@@ -1,2 +1,2 @@
 # cuatrobuenasamigas
-SItio web para la enseñanza de violín
+Sitio web para la enseñanza de violín. y además estoy aprendiendo a usar GITHUB
